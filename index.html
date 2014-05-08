@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>My Life in Runs</title>
+</head>
+<body>
+
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="css/runStyle.css"/>
+<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.css" />
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('.moreInfo').click(function(event){
+      //event.preventDefault();
+      $('.overlay').show();
+    });
+     
+    $('.overlayClose').click(function(){
+    $('.overlay').hide();
+    });
+     
+    $('.overlay').click(function(){
+        $('.overlay').hide();
+    })
+    $('.overlayContent').click(function(){
+        return false;
+    });
+
+  });
+  </script>
+
+<body>
+  <div class="popup" id="weatherTooltip"></div>
+  <div class="popup" id="storyTooltip"></div>
+  <div id="title">
+    <h1>My Run Landscape</h1></div>
+  <div id="container">
+    <script src="js/dimple.v1.1.5.min.js"></script>
+    <!--<canvas id="steamGraph" datasrc="../src/streamgraph.pjs"></canvas>-->
+    <!--<div class="chart"></div>-->
+  </div>
+ <footer id="footer" text-anchor="middle"><a class="moreInfo" href="#">About</a></br>Made by <a href="http://tarasiegel.com" target="_blank">Tara Siegel</a> for <a href="http://datadesign.wordpress.com" target="_blank">Information Design</a> at the <a href="http://pennwics.herokuapp.com/">University of Pennsylvania</a> © 2014</footer>
+ 
+ <div class="overlay">
+  <div class="overlayContent">
+    <h2>About this project</h2>
+    <p>This project presents a graphical representation of runs that I went on between May 2012 and May 2014.  Also shown is external data that could have possibly these runs.  </p>
+    <p>The colored area graphs present weather data from <a href="http://www.wunderground.com/" target="_blank"> Weather Underground</a> (Humidity, Max, Min and Mean Temperature) of the city I was at that point in time.  Each dot represents a run and where they are placed on the y-axis determine how far of a run it was.  The running data was collected from <a href="https://secure-nikeplus.nike.com/plus/" target="_blank">Nike Plus</a>.  The color of the dot represents my average pace. Hover over the infographic for more information about the weather and location, and over the dots to see more information about a run.</p>
+ 
+  </div>
+</div>
+
+
+
+  <script src="js/runScript.js" ></script>
+</body>
+
+</html>
+

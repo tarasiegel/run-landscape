@@ -1,0 +1,4460 @@
+{
+  "data": [
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/6869000000015936230740055154108084751223"
+        }
+      ],
+      "activityId": "6869000000015936230740055154108084751223",
+      "activityType": "RUN",
+      "startTime": "2014-04-12T13:38:42Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "734",
+        "fuel": "2341",
+        "distance": "10.668851852416992",
+        "steps": "0",
+        "duration": "0:55:33.352"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "PARTLY_SUNNY"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/6620000000015486497390055081228135519568"
+        }
+      ],
+      "activityId": "6620000000015486497390055081228135519568",
+      "activityType": "RUN",
+      "startTime": "2014-04-08T20:32:56Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "607",
+        "fuel": "1954",
+        "distance": "8.854568481445312",
+        "steps": "0",
+        "duration": "0:47:30.847"
+      },
+      "tags": [
+        {
+          "tagType": "EMOTION",
+          "tagValue": "SO_SO"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/4840000000004860319170054297594025077073"
+        }
+      ],
+      "activityId": "4840000000004860319170054297594025077073",
+      "activityType": "RUN",
+      "startTime": "2014-04-05T17:05:23Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "852",
+        "fuel": "2743",
+        "distance": "12.480463027954102",
+        "steps": "0",
+        "duration": "1:06:29.419"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "PARTLY_SUNNY"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/8683000000010565262530013422041951094760"
+        }
+      ],
+      "activityId": "8683000000010565262530013422041951094760",
+      "activityType": "RUN",
+      "startTime": "2014-04-02T18:34:40Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "938",
+        "fuel": "3021",
+        "distance": "13.691072463989258",
+        "steps": "0",
+        "duration": "1:14:25.887"
+      },
+      "tags": [
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "SO_SO"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/8871000000021129941400053599632233936063"
+        }
+      ],
+      "activityId": "8871000000021129941400053599632233936063",
+      "activityType": "RUN",
+      "startTime": "2014-03-27T20:28:49Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "887",
+        "fuel": "2862",
+        "distance": "13.059041976928711",
+        "steps": "0",
+        "duration": "1:04:44.757"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/5223000000001163414790015489328415607240"
+        }
+      ],
+      "activityId": "5223000000001163414790015489328415607240",
+      "activityType": "RUN",
+      "startTime": "2014-03-20T23:30:25Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "146",
+        "fuel": "457",
+        "distance": "3.709537982940674",
+        "steps": "0",
+        "duration": "0:18:31.569"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/7189000000012824930990052837811014752232"
+        }
+      ],
+      "activityId": "7189000000012824930990052837811014752232",
+      "activityType": "RUN",
+      "startTime": "2014-03-14T22:28:14Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "556",
+        "fuel": "1788",
+        "distance": "8.05972671508789",
+        "steps": "0",
+        "duration": "0:40:47.209"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "BEACH"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "SUNNY"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/8248000000004269303480010874018296223692"
+        }
+      ],
+      "activityId": "8248000000004269303480010874018296223692",
+      "activityType": "RUN",
+      "startTime": "2014-03-10T14:27:34Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "133",
+        "fuel": "431",
+        "distance": "1.941933512687683",
+        "steps": "0",
+        "duration": "0:10:34.556"
+      },
+      "tags": [
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "SO_SO"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/7102000000013363794500008396510732340569"
+        }
+      ],
+      "activityId": "7102000000013363794500008396510732340569",
+      "activityType": "RUN",
+      "startTime": "2014-03-09T15:29:43Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1016",
+        "fuel": "3293",
+        "distance": "15.02969741821289",
+        "steps": "0",
+        "duration": "1:31:50.283"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "SO_SO"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "PARTLY_SUNNY"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/7701000000007250138390051750609913328187"
+        }
+      ],
+      "activityId": "7701000000007250138390051750609913328187",
+      "activityType": "RUN",
+      "startTime": "2014-03-05T20:27:20Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "256",
+        "fuel": "815",
+        "distance": "3.7142934799194336",
+        "steps": "0",
+        "duration": "0:18:52.506"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "SO_SO"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/5077000000020248898230051266920763649823"
+        }
+      ],
+      "activityId": "5077000000020248898230051266920763649823",
+      "activityType": "RUN",
+      "startTime": "2014-02-23T18:18:33Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1268",
+        "fuel": "4079",
+        "distance": "18.51302146911621",
+        "steps": "0",
+        "duration": "1:39:44.324"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "PARTLY_SUNNY"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "UNSTOPPABLE"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/5195000000010450722770030144983836589667"
+        }
+      ],
+      "activityId": "5195000000010450722770030144983836589667",
+      "activityType": "RUN",
+      "startTime": "2014-01-31T19:24:10Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "806",
+        "fuel": "2597",
+        "distance": "11.756258010864258",
+        "steps": "0",
+        "duration": "1:04:33.148"
+      },
+      "tags": [
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/4671000000005561695010022425439693156925"
+        }
+      ],
+      "activityId": "4671000000005561695010022425439693156925",
+      "activityType": "RUN",
+      "startTime": "2014-01-27T16:54:36Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1368",
+        "fuel": "4426",
+        "distance": "19.966096878051758",
+        "steps": "0",
+        "duration": "1:48:59.939"
+      },
+      "tags": [
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        },
+        {
+          "tagType": "PHOTO",
+          "tagValue": "PHOTO_URL"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2275000000001153684190026121684559472287"
+        }
+      ],
+      "activityId": "2275000000001153684190026121684559472287",
+      "activityType": "RUN",
+      "startTime": "2014-01-20T19:13:09Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1052",
+        "fuel": "3400",
+        "distance": "15.36458683013916",
+        "steps": "0",
+        "duration": "1:24:55.731"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "UNSTOPPABLE"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/9544000000008998749030004762205479385975"
+        }
+      ],
+      "activityId": "9544000000008998749030004762205479385975",
+      "activityType": "RUN",
+      "startTime": "2014-01-17T20:27:09Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1187",
+        "fuel": "3820",
+        "distance": "17.400449752807617",
+        "steps": "0",
+        "duration": "1:38:20.023"
+      },
+      "tags": [
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/8109000000013659940560047900694032888223"
+        }
+      ],
+      "activityId": "8109000000013659940560047900694032888223",
+      "activityType": "RUN",
+      "startTime": "2014-01-12T16:17:09Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "157",
+        "fuel": "497",
+        "distance": "2.2713310718536377",
+        "steps": "0",
+        "duration": "0:11:38.243"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/7019000000012282177290047176588339602162"
+        }
+      ],
+      "activityId": "7019000000012282177290047176588339602162",
+      "activityType": "RUN",
+      "startTime": "2014-01-10T15:13:30Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "264",
+        "fuel": "861",
+        "distance": "3.87389874458313",
+        "steps": "0",
+        "duration": "0:21:32.458"
+      },
+      "tags": [
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        },
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "TIRED"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/7008000000017393812850045322305445229533"
+        }
+      ],
+      "activityId": "7008000000017393812850045322305445229533",
+      "activityType": "RUN",
+      "startTime": "2013-12-31T18:41:50Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "891",
+        "fuel": "2848",
+        "distance": "13.229333877563477",
+        "steps": "0",
+        "duration": "1:17:09.562"
+      },
+      "tags": [
+        {
+          "tagType": "EMOTION",
+          "tagValue": "TIRED"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/4810000000018718897430071323225552072329"
+        }
+      ],
+      "activityId": "4810000000018718897430071323225552072329",
+      "activityType": "RUN",
+      "startTime": "2013-12-13T16:22:45Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "953",
+        "fuel": "3056",
+        "distance": "14.007404327392578",
+        "steps": "0",
+        "duration": "1:16:53.560"
+      },
+      "tags": [
+        {
+          "tagType": "WEATHER",
+          "tagValue": "SUNNY"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2680000000004842616870021634455001544018"
+        }
+      ],
+      "activityId": "2680000000004842616870021634455001544018",
+      "activityType": "RUN",
+      "startTime": "2013-12-04T21:45:43Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1141",
+        "fuel": "3674",
+        "distance": "16.74767303466797",
+        "steps": "0",
+        "duration": "1:31:34.338"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/4389000000001850905890069914049325433100"
+        }
+      ],
+      "activityId": "4389000000001850905890069914049325433100",
+      "activityType": "RUN",
+      "startTime": "2013-11-23T17:42:51Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1138",
+        "fuel": "3698",
+        "distance": "16.59616470336914",
+        "steps": "0",
+        "duration": "1:27:01.820"
+      },
+      "tags": [
+        {
+          "tagType": "EMOTION",
+          "tagValue": "UNSTOPPABLE"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        },
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/9788000000000766829190004499465070803644"
+        }
+      ],
+      "activityId": "9788000000000766829190004499465070803644",
+      "activityType": "RUN",
+      "startTime": "2013-11-17T12:16:04Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1537",
+        "fuel": "4884",
+        "distance": "21.090452194213867",
+        "steps": "0",
+        "duration": "1:53:06.505"
+      },
+      "tags": [
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/6364000000020046371760069054493398829512"
+        }
+      ],
+      "activityId": "6364000000020046371760069054493398829512",
+      "activityType": "RUN",
+      "startTime": "2013-11-11T15:33:51Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "719",
+        "fuel": "2287",
+        "distance": "10.494528770446777",
+        "steps": "0",
+        "duration": "0:54:59.132"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2037000000009874802690014904447638046328"
+        }
+      ],
+      "activityId": "2037000000009874802690014904447638046328",
+      "activityType": "RUN",
+      "startTime": "2013-11-06T21:02:23Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "819",
+        "fuel": "2612",
+        "distance": "11.922403335571289",
+        "steps": "0",
+        "duration": "1:03:42.319"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/3403000000006933511490022623824098582677"
+        }
+      ],
+      "activityId": "3403000000006933511490022623824098582677",
+      "activityType": "RUN",
+      "startTime": "2013-11-04T15:19:58Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1271",
+        "fuel": "4043",
+        "distance": "18.535547256469727",
+        "steps": "0",
+        "duration": "1:37:27.998"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/7039000000020562807620068265938262088250"
+        }
+      ],
+      "activityId": "7039000000020562807620068265938262088250",
+      "activityType": "RUN",
+      "startTime": "2013-10-31T23:33:22Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "587",
+        "fuel": "1854",
+        "distance": "8.537569046020508",
+        "steps": "0",
+        "duration": "0:43:38.990"
+      },
+      "tags": [
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2489000000016511987230040834261293118731"
+        }
+      ],
+      "activityId": "2489000000016511987230040834261293118731",
+      "activityType": "RUN",
+      "startTime": "2013-10-28T14:20:31Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "676",
+        "fuel": "2138",
+        "distance": "9.853935241699219",
+        "steps": "0",
+        "duration": "0:50:14.329"
+      },
+      "tags": [
+        {
+          "tagType": "EMOTION",
+          "tagValue": "UNSTOPPABLE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "PARTLY_SUNNY"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2363000000013797293510017152955925382897"
+        }
+      ],
+      "activityId": "2363000000013797293510017152955925382897",
+      "activityType": "RUN",
+      "startTime": "2013-10-21T15:45:07Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "935",
+        "fuel": "2945",
+        "distance": "13.706253051757812",
+        "steps": "0",
+        "duration": "1:13:17.269"
+      },
+      "tags": [
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/4899000000010612825120016575216983916843"
+        }
+      ],
+      "activityId": "4899000000010612825120016575216983916843",
+      "activityType": "RUN",
+      "startTime": "2013-10-06T15:17:53Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "359",
+        "fuel": "1136",
+        "distance": "5.20864725112915",
+        "steps": "0",
+        "duration": "0:26:31.942"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/8209000000020166076220000721557175357628"
+        }
+      ],
+      "activityId": "8209000000020166076220000721557175357628",
+      "activityType": "RUN",
+      "startTime": "2013-10-01T20:51:35Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "719",
+        "fuel": "2289",
+        "distance": "10.476334571838379",
+        "steps": "0",
+        "duration": "0:54:27.578"
+      },
+      "tags": [
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/1390000000016513971050037782782145590841"
+        }
+      ],
+      "activityId": "1390000000016513971050037782782145590841",
+      "activityType": "RUN",
+      "startTime": "2013-09-23T17:27:02Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1108",
+        "fuel": "3504",
+        "distance": "16.16172218322754",
+        "steps": "0",
+        "duration": "1:25:03.458"
+      },
+      "tags": [
+        {
+          "tagType": "EMOTION",
+          "tagValue": "UNSTOPPABLE"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/9633000000007244508370064753668056683721"
+        }
+      ],
+      "activityId": "9633000000007244508370064753668056683721",
+      "activityType": "RUN",
+      "startTime": "2013-09-20T19:14:04Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1357",
+        "fuel": "4347",
+        "distance": "20.125198364257812",
+        "steps": "0",
+        "duration": "1:57:53.958"
+      },
+      "tags": [
+        {
+          "tagType": "EMOTION",
+          "tagValue": "TIRED"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "PARTLY_SUNNY"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/6210000000009834442360037611047398596182"
+        }
+      ],
+      "activityId": "6210000000009834442360037611047398596182",
+      "activityType": "RUN",
+      "startTime": "2013-09-18T14:56:19Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "453",
+        "fuel": "1445",
+        "distance": "6.590555667877197",
+        "steps": "0",
+        "duration": "0:34:22.328"
+      },
+      "tags": [
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "SO_SO"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/42512456977"
+        }
+      ],
+      "activityId": "42512456977",
+      "activityType": "RUN",
+      "startTime": "2013-09-06T18:58:28Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "979",
+        "fuel": "3105",
+        "distance": "14.329118728637695",
+        "steps": "0",
+        "duration": "1:17:32.533"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/42511976867"
+        }
+      ],
+      "activityId": "42511976867",
+      "activityType": "RUN",
+      "startTime": "2013-09-05T20:46:15Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1225",
+        "fuel": "3870",
+        "distance": "17.92877197265625",
+        "steps": "0",
+        "duration": "1:37:03.409"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "PARTLY_SUNNY"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/42507705491"
+        }
+      ],
+      "activityId": "42507705491",
+      "activityType": "RUN",
+      "startTime": "2013-08-29T13:23:25Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "874",
+        "fuel": "2791",
+        "distance": "12.895691871643066",
+        "steps": "0",
+        "duration": "1:14:19.334"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "SO_SO"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "TRAIL"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/42500688018"
+        }
+      ],
+      "activityId": "42500688018",
+      "activityType": "RUN",
+      "startTime": "2013-08-17T16:04:33Z",
+      "activityTimeZone": "America/Los_Angeles",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "475",
+        "fuel": "1527",
+        "distance": "6.929901599884033",
+        "steps": "0",
+        "duration": "0:37:09.843"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/42489389833"
+        }
+      ],
+      "activityId": "42489389833",
+      "activityType": "RUN",
+      "startTime": "2013-07-29T14:18:00Z",
+      "activityTimeZone": "America/Los_Angeles",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1240",
+        "fuel": "3985",
+        "distance": "18.194040298461914",
+        "steps": "0",
+        "duration": "1:40:41.402"
+      },
+      "tags": [
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "TRAIL"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "SUNNY"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/42484394520"
+        }
+      ],
+      "activityId": "42484394520",
+      "activityType": "RUN",
+      "startTime": "2013-07-20T18:45:17Z",
+      "activityTimeZone": "America/Los_Angeles",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1266",
+        "fuel": "4042",
+        "distance": "18.684598922729492",
+        "steps": "0",
+        "duration": "1:45:31.559"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "SUNNY"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "TRAIL"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "SO_SO"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/42408260000"
+        }
+      ],
+      "activityId": "42408260000",
+      "activityType": "RUN",
+      "startTime": "2013-07-12T00:45:57Z",
+      "activityTimeZone": "America/Los_Angeles",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "209",
+        "fuel": "675",
+        "distance": "3.0639405250549316",
+        "steps": "0",
+        "duration": "0:16:42.709"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "SUNNY"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "UNSTOPPABLE"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/42390148000"
+        }
+      ],
+      "activityId": "42390148000",
+      "activityType": "RUN",
+      "startTime": "2013-07-12T00:02:43Z",
+      "activityTimeZone": "America/Los_Angeles",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "326",
+        "fuel": "1037",
+        "distance": "4.836079120635986",
+        "steps": "0",
+        "duration": "0:22:51.923"
+      },
+      "tags": [
+        {
+          "tagType": "EMOTION",
+          "tagValue": "UNSTOPPABLE"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "SUNNY"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/39720892000"
+        }
+      ],
+      "activityId": "39720892000",
+      "activityType": "RUN",
+      "startTime": "2013-07-07T18:18:57Z",
+      "activityTimeZone": "America/Los_Angeles",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "946",
+        "fuel": "3059",
+        "distance": "13.847661018371582",
+        "steps": "0",
+        "duration": "1:16:24.818"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "TRAIL"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "SUNNY"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/36847989000"
+        }
+      ],
+      "activityId": "36847989000",
+      "activityType": "RUN",
+      "startTime": "2013-07-03T03:53:28Z",
+      "activityTimeZone": "America/Los_Angeles",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "683",
+        "fuel": "2189",
+        "distance": "9.981305122375488",
+        "steps": "0",
+        "duration": "0:54:23.311"
+      },
+      "tags": [
+        {
+          "tagType": "EMOTION",
+          "tagValue": "SO_SO"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "TRAIL"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "SUNNY"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/34325429000"
+        }
+      ],
+      "activityId": "34325429000",
+      "activityType": "RUN",
+      "startTime": "2013-06-29T01:44:30Z",
+      "activityTimeZone": "America/Los_Angeles",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "904",
+        "fuel": "2898",
+        "distance": "13.212900161743164",
+        "steps": "0",
+        "duration": "1:11:40.304"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "SUNNY"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "TRAIL"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/31236670000"
+        }
+      ],
+      "activityId": "31236670000",
+      "activityType": "RUN",
+      "startTime": "2013-06-23T19:29:18Z",
+      "activityTimeZone": "America/Los_Angeles",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1453",
+        "fuel": "4635",
+        "distance": "21.254762649536133",
+        "steps": "0",
+        "duration": "1:56:06.304"
+      },
+      "tags": [
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/29355243000"
+        }
+      ],
+      "activityId": "29355243000",
+      "activityType": "RUN",
+      "startTime": "2013-06-20T03:18:11Z",
+      "activityTimeZone": "America/Los_Angeles",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "884",
+        "fuel": "2870",
+        "distance": "12.900735855102539",
+        "steps": "0",
+        "duration": "1:09:46.943"
+      },
+      "tags": [
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "SUNNY"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/23926807000"
+        }
+      ],
+      "activityId": "23926807000",
+      "activityType": "RUN",
+      "startTime": "2013-06-11T03:34:36Z",
+      "activityTimeZone": "America/Los_Angeles",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "377",
+        "fuel": "1202",
+        "distance": "5.477560997009277",
+        "steps": "0",
+        "duration": "0:28:37.043"
+      },
+      "tags": [
+        {
+          "tagType": "WEATHER",
+          "tagValue": "SUNNY"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/22071850000"
+        }
+      ],
+      "activityId": "22071850000",
+      "activityType": "RUN",
+      "startTime": "2013-06-08T01:16:32Z",
+      "activityTimeZone": "America/Los_Angeles",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "663",
+        "fuel": "2121",
+        "distance": "9.72215747833252",
+        "steps": "0",
+        "duration": "0:54:03.428"
+      },
+      "tags": [
+        {
+          "tagType": "WEATHER",
+          "tagValue": "SUNNY"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "TRAIL"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/15177202000"
+        }
+      ],
+      "activityId": "15177202000",
+      "activityType": "RUN",
+      "startTime": "2013-05-29T03:29:28Z",
+      "activityTimeZone": "America/Los_Angeles",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "562",
+        "fuel": "1805",
+        "distance": "8.176840782165527",
+        "steps": "0",
+        "duration": "0:42:44.759"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "SUNNY"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/8733229000"
+        }
+      ],
+      "activityId": "8733229000",
+      "activityType": "RUN",
+      "startTime": "2013-05-18T17:07:59Z",
+      "activityTimeZone": "America/Los_Angeles",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1252",
+        "fuel": "4146",
+        "distance": "18.535165786743164",
+        "steps": "0",
+        "duration": "1:48:28.891"
+      },
+      "tags": [
+        {
+          "tagType": "WEATHER",
+          "tagValue": "SUNNY"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "TRAIL"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2138694507"
+        }
+      ],
+      "activityId": "2138694507",
+      "activityType": "RUN",
+      "startTime": "2013-05-01T17:06:14Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "904",
+        "fuel": "2927",
+        "distance": "13.188884735107422",
+        "steps": "0",
+        "duration": "1:09:22.854"
+      },
+      "tags": [
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2135211421"
+        }
+      ],
+      "activityId": "2135211421",
+      "activityType": "RUN",
+      "startTime": "2013-04-25T17:50:15Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1245",
+        "fuel": "4068",
+        "distance": "18.269784927368164",
+        "steps": "0",
+        "duration": "1:41:48.908"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2131107248"
+        }
+      ],
+      "activityId": "2131107248",
+      "activityType": "RUN",
+      "startTime": "2013-04-17T21:25:05Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1043",
+        "fuel": "3345",
+        "distance": "15.215271949768066",
+        "steps": "0",
+        "duration": "1:19:38.673"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2129805342"
+        }
+      ],
+      "activityId": "2129805342",
+      "activityType": "RUN",
+      "startTime": "2013-04-15T22:07:11Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "565",
+        "fuel": "1811",
+        "distance": "8.203203201293945",
+        "steps": "0",
+        "duration": "0:43:14.911"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2127671406"
+        }
+      ],
+      "activityId": "2127671406",
+      "activityType": "RUN",
+      "startTime": "2013-04-11T18:36:10Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "892",
+        "fuel": "2844",
+        "distance": "12.901237487792969",
+        "steps": "0",
+        "duration": "1:04:13.225"
+      },
+      "tags": [
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2126663596"
+        }
+      ],
+      "activityId": "2126663596",
+      "activityType": "RUN",
+      "startTime": "2013-04-09T19:32:25Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "902",
+        "fuel": "2932",
+        "distance": "13.278076171875",
+        "steps": "0",
+        "duration": "1:13:41.723"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "TIRED"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2121512314"
+        }
+      ],
+      "activityId": "2121512314",
+      "activityType": "RUN",
+      "startTime": "2013-03-30T17:17:58Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "998",
+        "fuel": "3227",
+        "distance": "14.576218605041504",
+        "steps": "0",
+        "duration": "1:16:42.135"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "PARTLY_SUNNY"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2120145191"
+        }
+      ],
+      "activityId": "2120145191",
+      "activityType": "RUN",
+      "startTime": "2013-03-27T21:38:52Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "828",
+        "fuel": "2672",
+        "distance": "12.0620698928833",
+        "steps": "0",
+        "duration": "1:02:33.767"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2119582373"
+        }
+      ],
+      "activityId": "2119582373",
+      "activityType": "RUN",
+      "startTime": "2013-03-26T19:12:07Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "567",
+        "fuel": "1825",
+        "distance": "8.253220558166504",
+        "steps": "0",
+        "duration": "0:41:24.870"
+      },
+      "tags": [
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2118732885"
+        }
+      ],
+      "activityId": "2118732885",
+      "activityType": "RUN",
+      "startTime": "2013-03-24T19:20:25Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1444",
+        "fuel": "4709",
+        "distance": "21.140682220458984",
+        "steps": "0",
+        "duration": "1:55:23.909"
+      },
+      "tags": [
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2111036738"
+        }
+      ],
+      "activityId": "2111036738",
+      "activityType": "RUN",
+      "startTime": "2013-03-07T17:21:59Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1119",
+        "fuel": "3622",
+        "distance": "16.27824592590332",
+        "steps": "0",
+        "duration": "1:26:02.895"
+      },
+      "tags": [
+        {
+          "tagType": "WEATHER",
+          "tagValue": "SUNNY"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2109704092"
+        }
+      ],
+      "activityId": "2109704092",
+      "activityType": "RUN",
+      "startTime": "2013-03-04T17:55:25Z",
+      "activityTimeZone": "America/Chicago",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "745",
+        "fuel": "2430",
+        "distance": "10.887232780456543",
+        "steps": "0",
+        "duration": "0:59:31.654"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "SUNNY"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2106321772"
+        }
+      ],
+      "activityId": "2106321772",
+      "activityType": "RUN",
+      "startTime": "2013-02-24T19:35:44Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1296",
+        "fuel": "4210",
+        "distance": "18.92483901977539",
+        "steps": "0",
+        "duration": "1:41:17.917"
+      },
+      "tags": [
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2102100534"
+        }
+      ],
+      "activityId": "2102100534",
+      "activityType": "RUN",
+      "startTime": "2013-02-14T22:05:11Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1035",
+        "fuel": "3309",
+        "distance": "14.653076171875",
+        "steps": "0",
+        "duration": "1:15:30.765"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2100805728"
+        }
+      ],
+      "activityId": "2100805728",
+      "activityType": "RUN",
+      "startTime": "2013-02-11T22:37:08Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "844",
+        "fuel": "2717",
+        "distance": "12.254955291748047",
+        "steps": "0",
+        "duration": "1:03:12.995"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2100756152"
+        }
+      ],
+      "activityId": "2100756152",
+      "activityType": "RUN",
+      "startTime": "2013-02-04T22:17:25Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "921",
+        "fuel": "2952",
+        "distance": "13.382437705993652",
+        "steps": "0",
+        "duration": "1:08:41.838"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "SNOWY"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2096490543"
+        }
+      ],
+      "activityId": "2096490543",
+      "activityType": "RUN",
+      "startTime": "2013-02-01T21:49:06Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "783",
+        "fuel": "2512",
+        "distance": "11.372732162475586",
+        "steps": "0",
+        "duration": "0:58:50.655"
+      },
+      "tags": [
+        {
+          "tagType": "EMOTION",
+          "tagValue": "SO_SO"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2091311353"
+        }
+      ],
+      "activityId": "2091311353",
+      "activityType": "RUN",
+      "startTime": "2013-01-14T22:03:16Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1075",
+        "fuel": "3323",
+        "distance": "15.716341018676758",
+        "steps": "0",
+        "duration": "1:25:02.960"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2088021162"
+        }
+      ],
+      "activityId": "2088021162",
+      "activityType": "RUN",
+      "startTime": "2013-01-12T21:31:54Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1273",
+        "fuel": "3918",
+        "distance": "18.52594757080078",
+        "steps": "0",
+        "duration": "1:34:50.298"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2087142371"
+        }
+      ],
+      "activityId": "2087142371",
+      "activityType": "RUN",
+      "startTime": "2013-01-10T22:48:47Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "208",
+        "fuel": "637",
+        "distance": "3.0116851329803467",
+        "steps": "0",
+        "duration": "0:14:37.711"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2086500574"
+        }
+      ],
+      "activityId": "2086500574",
+      "activityType": "RUN",
+      "startTime": "2013-01-09T15:18:24Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "996",
+        "fuel": "3067",
+        "distance": "14.503731727600098",
+        "steps": "0",
+        "duration": "1:16:35.603"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2081162250"
+        }
+      ],
+      "activityId": "2081162250",
+      "activityType": "RUN",
+      "startTime": "2012-12-27T18:47:19Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1005",
+        "fuel": "3102",
+        "distance": "14.671082496643066",
+        "steps": "0",
+        "duration": "1:19:21.652"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "SUNNY"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2080193159"
+        }
+      ],
+      "activityId": "2080193159",
+      "activityType": "RUN",
+      "startTime": "2012-12-24T22:34:35Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "802",
+        "fuel": "2470",
+        "distance": "11.681920051574707",
+        "steps": "0",
+        "duration": "1:01:58.461"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "SUNNY"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2079097867"
+        }
+      ],
+      "activityId": "2079097867",
+      "activityType": "RUN",
+      "startTime": "2012-12-21T16:36:33Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "994",
+        "fuel": "3068",
+        "distance": "14.507795333862305",
+        "steps": "0",
+        "duration": "1:18:55.824"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2077150984"
+        }
+      ],
+      "activityId": "2077150984",
+      "activityType": "RUN",
+      "startTime": "2012-12-15T15:16:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "625",
+        "fuel": "1935",
+        "distance": "9.149538040161133",
+        "steps": "0",
+        "duration": "0:50:40.975"
+      },
+      "tags": [
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "SO_SO"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2073219347"
+        }
+      ],
+      "activityId": "2073219347",
+      "activityType": "RUN",
+      "startTime": "2012-12-03T20:43:45Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1337",
+        "fuel": "4103",
+        "distance": "19.405200958251953",
+        "steps": "0",
+        "duration": "1:43:22.888"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2072049087"
+        }
+      ],
+      "activityId": "2072049087",
+      "activityType": "RUN",
+      "startTime": "2012-11-30T19:41:04Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1458",
+        "fuel": "4497",
+        "distance": "21.266399383544922",
+        "steps": "0",
+        "duration": "1:52:54.891"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2070646366"
+        }
+      ],
+      "activityId": "2070646366",
+      "activityType": "RUN",
+      "startTime": "2012-11-26T20:38:54Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "886",
+        "fuel": "2726",
+        "distance": "12.892407417297363",
+        "steps": "0",
+        "duration": "1:08:28.583"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2069121469"
+        }
+      ],
+      "activityId": "2069121469",
+      "activityType": "RUN",
+      "startTime": "2012-11-22T16:38:49Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1048",
+        "fuel": "3238",
+        "distance": "15.310670852661133",
+        "steps": "0",
+        "duration": "1:23:07.678"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2067437171"
+        }
+      ],
+      "activityId": "2067437171",
+      "activityType": "RUN",
+      "startTime": "2012-11-18T12:19:29Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1484",
+        "fuel": "4460",
+        "distance": "21.090452194213867",
+        "steps": "0",
+        "duration": "1:54:15.322"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2066090388"
+        }
+      ],
+      "activityId": "2066090388",
+      "activityType": "RUN",
+      "startTime": "2012-11-14T20:36:30Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1240",
+        "fuel": "3813",
+        "distance": "18.02991485595703",
+        "steps": "0",
+        "duration": "1:34:26.825"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2065296861"
+        }
+      ],
+      "activityId": "2065296861",
+      "activityType": "RUN",
+      "startTime": "2012-11-12T20:34:07Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1069",
+        "fuel": "3301",
+        "distance": "15.6105318069458",
+        "steps": "0",
+        "duration": "1:24:58.002"
+      },
+      "tags": [
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2064082909"
+        }
+      ],
+      "activityId": "2064082909",
+      "activityType": "RUN",
+      "startTime": "2012-11-09T22:31:32Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1226",
+        "fuel": "3788",
+        "distance": "17.911584854125977",
+        "steps": "0",
+        "duration": "1:36:07.790"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2062134411"
+        }
+      ],
+      "activityId": "2062134411",
+      "activityType": "RUN",
+      "startTime": "2012-11-04T18:20:39Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1138",
+        "fuel": "3489",
+        "distance": "16.499494552612305",
+        "steps": "0",
+        "duration": "1:23:47.641"
+      },
+      "tags": [
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "UNSTOPPABLE"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2061205829"
+        }
+      ],
+      "activityId": "2061205829",
+      "activityType": "RUN",
+      "startTime": "2012-11-02T17:26:12Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1174",
+        "fuel": "3610",
+        "distance": "17.071088790893555",
+        "steps": "0",
+        "duration": "1:29:42.325"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2058599370"
+        }
+      ],
+      "activityId": "2058599370",
+      "activityType": "RUN",
+      "startTime": "2012-10-26T19:49:23Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1105",
+        "fuel": "3407",
+        "distance": "16.112024307250977",
+        "steps": "0",
+        "duration": "1:27:44.582"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2057273100"
+        }
+      ],
+      "activityId": "2057273100",
+      "activityType": "RUN",
+      "startTime": "2012-10-23T16:49:26Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "163",
+        "fuel": "515",
+        "distance": "2.4374353885650635",
+        "steps": "0",
+        "duration": "0:13:49.823"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2057255803"
+        }
+      ],
+      "activityId": "2057255803",
+      "activityType": "RUN",
+      "startTime": "2012-10-23T14:57:24Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1261",
+        "fuel": "4000",
+        "distance": "18.91783905029297",
+        "steps": "0",
+        "duration": "1:38:13.434"
+      },
+      "tags": [
+        {
+          "tagType": "EMOTION",
+          "tagValue": "UNSTOPPABLE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2055967983"
+        }
+      ],
+      "activityId": "2055967983",
+      "activityType": "RUN",
+      "startTime": "2012-10-20T17:28:37Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "987",
+        "fuel": "3100",
+        "distance": "14.66085433959961",
+        "steps": "0",
+        "duration": "1:17:59.825"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "PARTLY_SUNNY"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "UNSTOPPABLE"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2055097007"
+        }
+      ],
+      "activityId": "2055097007",
+      "activityType": "RUN",
+      "startTime": "2012-10-18T14:19:38Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "738",
+        "fuel": "2349",
+        "distance": "11.107527732849121",
+        "steps": "0",
+        "duration": "1:03:41.068"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2055066329"
+        }
+      ],
+      "activityId": "2055066329",
+      "activityType": "RUN",
+      "startTime": "2012-10-18T13:31:49Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "448",
+        "fuel": "1411",
+        "distance": "6.671064853668213",
+        "steps": "0",
+        "duration": "0:34:56.640"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2053461823"
+        }
+      ],
+      "activityId": "2053461823",
+      "activityType": "RUN",
+      "startTime": "2012-10-14T19:08:13Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1407",
+        "fuel": "4472",
+        "distance": "21.147836685180664",
+        "steps": "0",
+        "duration": "2:00:20.769"
+      },
+      "tags": [
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2052348502"
+        }
+      ],
+      "activityId": "2052348502",
+      "activityType": "RUN",
+      "startTime": "2012-10-11T22:44:08Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "740",
+        "fuel": "2327",
+        "distance": "11.0059232711792",
+        "steps": "0",
+        "duration": "0:58:18.313"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2051337722"
+        }
+      ],
+      "activityId": "2051337722",
+      "activityType": "RUN",
+      "startTime": "2012-10-09T20:48:48Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "814",
+        "fuel": "2554",
+        "distance": "12.079690933227539",
+        "steps": "0",
+        "duration": "1:02:25.581"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2049461855"
+        }
+      ],
+      "activityId": "2049461855",
+      "activityType": "RUN",
+      "startTime": "2012-10-05T14:53:14Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1139",
+        "fuel": "3593",
+        "distance": "16.99009132385254",
+        "steps": "0",
+        "duration": "1:32:14.467"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "SO_SO"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "SUNNY"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2047869480"
+        }
+      ],
+      "activityId": "2047869480",
+      "activityType": "RUN",
+      "startTime": "2012-10-01T21:59:28Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "968",
+        "fuel": "3078",
+        "distance": "14.556797981262207",
+        "steps": "0",
+        "duration": "1:22:27.547"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2046426407"
+        }
+      ],
+      "activityId": "2046426407",
+      "activityType": "RUN",
+      "startTime": "2012-09-28T18:16:28Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1166",
+        "fuel": "3680",
+        "distance": "17.40367317199707",
+        "steps": "0",
+        "duration": "1:33:42.072"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2043235196"
+        }
+      ],
+      "activityId": "2043235196",
+      "activityType": "RUN",
+      "startTime": "2012-09-21T22:39:49Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1216",
+        "fuel": "3844",
+        "distance": "18.178775787353516",
+        "steps": "0",
+        "duration": "1:39:06.243"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2042610252"
+        }
+      ],
+      "activityId": "2042610252",
+      "activityType": "RUN",
+      "startTime": "2012-09-20T13:48:59Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "677",
+        "fuel": "2131",
+        "distance": "10.076203346252441",
+        "steps": "0",
+        "duration": "0:54:08.380"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "PARTLY_SUNNY"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2039844471"
+        }
+      ],
+      "activityId": "2039844471",
+      "activityType": "RUN",
+      "startTime": "2012-09-14T15:58:32Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1415",
+        "fuel": "4475",
+        "distance": "21.15984344482422",
+        "steps": "0",
+        "duration": "1:55:06.471"
+      },
+      "tags": [
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2039042372"
+        }
+      ],
+      "activityId": "2039042372",
+      "activityType": "RUN",
+      "startTime": "2012-09-12T21:35:46Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1127",
+        "fuel": "3544",
+        "distance": "16.76008415222168",
+        "steps": "0",
+        "duration": "1:29:48.509"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2038019383"
+        }
+      ],
+      "activityId": "2038019383",
+      "activityType": "RUN",
+      "startTime": "2012-09-10T19:41:57Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1019",
+        "fuel": "3204",
+        "distance": "15.152264595031738",
+        "steps": "0",
+        "duration": "1:20:02.846"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "UNSTOPPABLE"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2036198177"
+        }
+      ],
+      "activityId": "2036198177",
+      "activityType": "RUN",
+      "startTime": "2012-09-06T21:21:52Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1255",
+        "fuel": "3984",
+        "distance": "18.839941024780273",
+        "steps": "0",
+        "duration": "1:46:38.848"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2035121852"
+        }
+      ],
+      "activityId": "2035121852",
+      "activityType": "RUN",
+      "startTime": "2012-09-04T15:50:20Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1227",
+        "fuel": "3934",
+        "distance": "18.60577392578125",
+        "steps": "0",
+        "duration": "1:51:15.564"
+      },
+      "tags": [
+        {
+          "tagType": "EMOTION",
+          "tagValue": "SO_SO"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2034059484"
+        }
+      ],
+      "activityId": "2034059484",
+      "activityType": "RUN",
+      "startTime": "2012-08-31T16:38:38Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "522",
+        "fuel": "1499",
+        "distance": "7.089160442352295",
+        "steps": "0",
+        "duration": "0:39:42.985"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2032201963"
+        }
+      ],
+      "activityId": "2032201963",
+      "activityType": "RUN",
+      "startTime": "2012-08-29T12:40:51Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "29",
+        "fuel": "213",
+        "distance": "1.0058400630950928",
+        "steps": "0",
+        "duration": "0:07:00.738"
+      },
+      "tags": [
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        },
+        {
+          "tagType": "NOTE",
+          "tagValue": "Really ran a mile"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "TRACK"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "SUNNY"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2031257076"
+        }
+      ],
+      "activityId": "2031257076",
+      "activityType": "RUN",
+      "startTime": "2012-08-27T16:56:28Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "902",
+        "fuel": "2835",
+        "distance": "13.40526008605957",
+        "steps": "0",
+        "duration": "1:09:32.550"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "INDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2029169729"
+        }
+      ],
+      "activityId": "2029169729",
+      "activityType": "RUN",
+      "startTime": "2012-08-22T22:41:29Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "864",
+        "fuel": "2726",
+        "distance": "12.893167495727539",
+        "steps": "0",
+        "duration": "1:11:31.254"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2027144505"
+        }
+      ],
+      "activityId": "2027144505",
+      "activityType": "RUN",
+      "startTime": "2012-08-18T14:34:06Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "962",
+        "fuel": "3102",
+        "distance": "14.669170379638672",
+        "steps": "0",
+        "duration": "1:24:09.241"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2026410529"
+        }
+      ],
+      "activityId": "2026410529",
+      "activityType": "RUN",
+      "startTime": "2012-08-16T20:59:33Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "271",
+        "fuel": "955",
+        "distance": "4.514209747314453",
+        "steps": "0",
+        "duration": "0:20:26.488"
+      },
+      "tags": [
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2021750048"
+        }
+      ],
+      "activityId": "2021750048",
+      "activityType": "RUN",
+      "startTime": "2012-08-07T00:35:15Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "471",
+        "fuel": "1502",
+        "distance": "7.100772380828857",
+        "steps": "0",
+        "duration": "0:41:55.618"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2021717740"
+        }
+      ],
+      "activityId": "2021717740",
+      "activityType": "RUN",
+      "startTime": "2012-08-06T23:18:46Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "771",
+        "fuel": "2438",
+        "distance": "11.53067684173584",
+        "steps": "0",
+        "duration": "1:04:33.553"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2020447750"
+        }
+      ],
+      "activityId": "2020447750",
+      "activityType": "RUN",
+      "startTime": "2012-08-03T22:22:25Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "818",
+        "fuel": "2587",
+        "distance": "12.232760429382324",
+        "steps": "0",
+        "duration": "1:05:26.951"
+      },
+      "tags": [
+        {
+          "tagType": "WEATHER",
+          "tagValue": "SUNNY"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2018801073"
+        }
+      ],
+      "activityId": "2018801073",
+      "activityType": "RUN",
+      "startTime": "2012-07-30T23:30:58Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1127",
+        "fuel": "3551",
+        "distance": "16.790794372558594",
+        "steps": "0",
+        "duration": "1:29:47.154"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2017143727"
+        }
+      ],
+      "activityId": "2017143727",
+      "activityType": "RUN",
+      "startTime": "2012-07-26T22:44:59Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "713",
+        "fuel": "2239",
+        "distance": "10.589882850646973",
+        "steps": "0",
+        "duration": "0:54:30.187"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "SO_SO"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "RAINY"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2016344338"
+        }
+      ],
+      "activityId": "2016344338",
+      "activityType": "RUN",
+      "startTime": "2012-07-24T23:15:39Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1147",
+        "fuel": "3422",
+        "distance": "16.18195343017578",
+        "steps": "0",
+        "duration": "1:29:26.368"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "SO_SO"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2014300908"
+        }
+      ],
+      "activityId": "2014300908",
+      "activityType": "RUN",
+      "startTime": "2012-07-19T22:39:22Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "722",
+        "fuel": "2266",
+        "distance": "10.714802742004395",
+        "steps": "0",
+        "duration": "0:54:02.982"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2013065993"
+        }
+      ],
+      "activityId": "2013065993",
+      "activityType": "RUN",
+      "startTime": "2012-07-16T23:15:03Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "891",
+        "fuel": "2415",
+        "distance": "11.418294906616211",
+        "steps": "0",
+        "duration": "1:03:46.785"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2011900625"
+        }
+      ],
+      "activityId": "2011900625",
+      "activityType": "RUN",
+      "startTime": "2012-07-13T22:31:27Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "862",
+        "fuel": "2717",
+        "distance": "12.847607612609863",
+        "steps": "0",
+        "duration": "1:09:51.863"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2011199753"
+        }
+      ],
+      "activityId": "2011199753",
+      "activityType": "RUN",
+      "startTime": "2012-07-11T23:15:17Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "918",
+        "fuel": "2916",
+        "distance": "13.790558815002441",
+        "steps": "0",
+        "duration": "1:17:05.982"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2009640826"
+        }
+      ],
+      "activityId": "2009640826",
+      "activityType": "RUN",
+      "startTime": "2012-07-08T11:22:48Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "332",
+        "fuel": "1054",
+        "distance": "4.984405994415283",
+        "steps": "0",
+        "duration": "0:28:07.915"
+      },
+      "tags": [
+        {
+          "tagType": "EMOTION",
+          "tagValue": "UNSTOPPABLE"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2009618919"
+        }
+      ],
+      "activityId": "2009618919",
+      "activityType": "RUN",
+      "startTime": "2012-07-08T10:21:22Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "208",
+        "fuel": "653",
+        "distance": "3.085829734802246",
+        "steps": "0",
+        "duration": "0:14:51.322"
+      },
+      "tags": [
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "TRAIL"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "CLOUDY"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2008760924"
+        }
+      ],
+      "activityId": "2008760924",
+      "activityType": "RUN",
+      "startTime": "2012-07-05T23:39:15Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1045",
+        "fuel": "3303",
+        "distance": "15.619787216186523",
+        "steps": "0",
+        "duration": "1:23:29.862"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "SUNNY"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "UNSTOPPABLE"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "TRAIL"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2007717770"
+        }
+      ],
+      "activityId": "2007717770",
+      "activityType": "RUN",
+      "startTime": "2012-07-02T23:07:25Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1098",
+        "fuel": "3269",
+        "distance": "15.457748413085938",
+        "steps": "0",
+        "duration": "1:24:36.735"
+      },
+      "tags": [
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "SUNNY"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2005754005"
+        }
+      ],
+      "activityId": "2005754005",
+      "activityType": "RUN",
+      "startTime": "2012-06-27T23:38:44Z",
+      "activityTimeZone": "America/New_York",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1057",
+        "fuel": "3340",
+        "distance": "15.795710563659668",
+        "steps": "0",
+        "duration": "1:24:56.573"
+      },
+      "tags": [
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "SUNNY"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2003487310"
+        }
+      ],
+      "activityId": "2003487310",
+      "activityType": "RUN",
+      "startTime": "2012-06-22T19:45:12Z",
+      "activityTimeZone": "America/Anguilla",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1059",
+        "fuel": "3337",
+        "distance": "15.780705451965332",
+        "steps": "0",
+        "duration": "1:24:23.712"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2002016434"
+        }
+      ],
+      "activityId": "2002016434",
+      "activityType": "RUN",
+      "startTime": "2012-06-18T22:48:32Z",
+      "activityTimeZone": "America/Anguilla",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "938",
+        "fuel": "2943",
+        "distance": "13.916119575500488",
+        "steps": "0",
+        "duration": "1:13:59.043"
+      },
+      "tags": [
+        {
+          "tagType": "EMOTION",
+          "tagValue": "AMPED"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "AMPED"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "AMPED"
+        },
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        },
+        {
+          "tagType": "NOTE",
+          "tagValue": null
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2000899644"
+        }
+      ],
+      "activityId": "2000899644",
+      "activityType": "RUN",
+      "startTime": "2012-06-15T20:37:12Z",
+      "activityTimeZone": "America/Anguilla",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": "1049",
+        "fuel": "3328",
+        "distance": "15.739187240600586",
+        "steps": "0",
+        "duration": "1:28:48.403"
+      },
+      "tags": [
+        {
+          "tagType": "NOTE",
+          "tagValue": null
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "AMPED"
+        },
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "AMPED"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "AMPED"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2001184572"
+        }
+      ],
+      "activityId": "2001184572",
+      "activityType": "RUN",
+      "startTime": "2012-06-06T23:11:52Z",
+      "activityTimeZone": "America/Anguilla",
+      "status": "IN_PROGRESS",
+      "deviceType": "IPOD",
+      "metricSummary": {
+        "calories": "1190",
+        "fuel": "3766",
+        "distance": "17.808900833129883",
+        "steps": "54426",
+        "duration": "1:30:37.160"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2001187444"
+        }
+      ],
+      "activityId": "2001187444",
+      "activityType": "RUN",
+      "startTime": "2012-05-29T13:54:21Z",
+      "activityTimeZone": "America/Anguilla",
+      "status": "IN_PROGRESS",
+      "deviceType": "IPOD",
+      "metricSummary": {
+        "calories": "1207",
+        "fuel": "3821",
+        "distance": "18.069400787353516",
+        "steps": "32204",
+        "duration": "1:35:34.414"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2001193216"
+        }
+      ],
+      "activityId": "2001193216",
+      "activityType": "RUN",
+      "startTime": "2012-05-26T19:13:23Z",
+      "activityTimeZone": "America/Anguilla",
+      "status": "IN_PROGRESS",
+      "deviceType": "IPOD",
+      "metricSummary": {
+        "calories": "109",
+        "fuel": "344",
+        "distance": "1.6253999471664429",
+        "steps": "15198",
+        "duration": "0:07:13.203"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.nike.com/v1/me/sport/activities/2001192306"
+        }
+      ],
+      "activityId": "2001192306",
+      "activityType": "RUN",
+      "startTime": "2012-05-25T14:46:25Z",
+      "activityTimeZone": "America/Anguilla",
+      "status": "IN_PROGRESS",
+      "deviceType": "IPOD",
+      "metricSummary": {
+        "calories": "980",
+        "fuel": "3101",
+        "distance": "14.662400245666504",
+        "steps": "13926",
+        "duration": "1:28:55.830"
+      },
+      "tags": [],
+      "metrics": []
+    }
+  ],
+  "paging": {
+    "next": "/v1/me/sport/activities?startDate=2012-01-01&count=150&endDate=2014-05-01&offset=151&access_token=97a1c9556d571f9c937c532096198af6",
+    "previous": null
+  }
+}

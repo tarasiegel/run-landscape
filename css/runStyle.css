@@ -1,0 +1,154 @@
+@import url(http://fonts.googleapis.com/css?family=Glegoo|Ribeye+Marrow);
+
+@font-face {
+font-family: Cassannet;
+src: url("Cassannet.otf") format("opentype");
+}
+
+html, body {
+	width: 100%; 
+	height: 100%;
+	background: burlywood;
+	zoom: 1;
+	margin: auto;
+	position: relative;
+}
+
+a {
+	text-decoration: none;
+	color: slategrey;
+}
+
+svg {
+	height: 550px;
+}
+
+body {
+	display: inherit;
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+	width: 100%;
+	height: 100%;
+}
+
+#title {
+	position: absolute;
+	display: block;
+	margin: -80px 0 0 40px;
+	font-size: 20px;
+	color: grey;
+	font-style: italic;
+}
+
+footer { 
+	margin-left: 40px;
+	font-size: 13px;
+}
+
+#container {
+	margin-top: 140px;
+	height: 550px;
+	position: relative;
+}
+
+.chart { 
+  background: #fff;
+}
+
+p {
+  font: 12px helvetica;
+}
+
+
+.axis line {
+  fill: none;
+  stroke: #000;
+  stroke-width: 2px;
+}
+
+
+path.line {
+  fill: none;
+  stroke: #666;
+  stroke-width: 1.5px;
+}
+
+path.area {
+  fill: #e7e7e7;
+}
+
+.axis {
+  shape-rendering: crispEdges;
+  font-size: 14px;  
+}
+
+
+.x.axis line {
+  stroke: #B5A49A;
+}
+
+.x.axis {
+	color: #B5A49A;
+}
+
+.x.axis .minor {
+  stroke-opacity: .5;
+}
+
+.x.axis text {
+	margin-left: 50px;
+}
+
+.x.axis path {
+  display: none;
+}
+
+#story {
+	margin-top: 3px;
+}
+
+.popup {
+	background-color: antiquewhite;
+	color: black;
+	opacity: 0.95;
+	border: 2px solid darkgoldenrod;
+	border-radius: 4px;
+	position: absolute;
+	display: none;
+	padding: 4px;
+	font-size: 10px;
+	text-align: right;
+	z-index: 200;
+}
+
+a.moreInfo:hover{
+  color: black;
+}
+
+.overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  cursor: pointer;
+  background: #000;
+  background: rgba(0,0,0,0.55);
+}
+
+.overlayContent {
+  background: #FFF;
+  padding: 1%;
+  width: 40%;
+  position: relative;
+  top: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  cursor: default;
+  border-radius: 4px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.9);
+}
+
+.overlayContent h2 {
+	text-align: center;
+}
